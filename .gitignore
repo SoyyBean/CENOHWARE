@@ -1,0 +1,4 @@
+# build output (the released exe is attached to GitHub Releases)
+build/
+# the optional Shotgun Keys sounds are not part of the repository
+assets/*.wav
